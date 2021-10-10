@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @javiergs
+- 👨🏻‍🏫 I teach diverse topics in software design and programing languages
 - 👀 I’m looking to collaborate on Intelligent Systems and Human-Centered AI
 - 🌱 I’m currently learning Big Data on AWS
 - 📫 mscjaviergs@gmail.com
