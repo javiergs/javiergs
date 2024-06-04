@@ -26,11 +26,11 @@ You can click the Preview link to take a look at your changes.
 ### Affect-Driven Systems
 A comprehensive look at the fundamentals of designing systems that respond to human emotions.
 
-### Intelligent Systems
-Collaborative projects focused on creating adaptive and intelligent solutions for various applications.
-
 ### Human-Centered AI
-Exploring the integration of AI technologies in ways that prioritize human needs and experiences.
+Collaborative projects focused on creating adaptive and intelligent solutions for various applications exploring the integration of AI technologies in ways that prioritize human needs and experiences.
+
+### Teaching
+A collection of sample codes for diverse software engineering topics.
 
 ## Get In Touch
 
