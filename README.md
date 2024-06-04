@@ -1,21 +1,21 @@
 ![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
 [![platform](https://img.shields.io/twitter/follow/mscjaviergs?style=flat-square)](https://x.com/intent/follow?screen_name=mscjaviergs)
 
+Welcome to my GitHub profile! I'm passionate about software design, programming languages, and the intersection of intelligent systems and human-centered AI.
 
+<!---
 - 👋 Hi, I’m @javiergs
 - 👨🏻‍🏫 I teach diverse topics in software design and programing languages
 - 👀 I’m looking to collaborate on Intelligent Systems and Human-Centered AI
 - 🌱 I’m currently writting a book about Fundamentals on Affect-Driven Systems
 - 📫 mscjaviergs@gmail.com
+--->
 
 <!---
 javiergs/javiergs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there, I'm Javier 👋
-
-Welcome to my GitHub profile! I'm passionate about software design, programming languages, and the intersection of intelligent systems and human-centered AI.
 
 ## About Me
 
