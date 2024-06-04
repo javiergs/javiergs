@@ -32,4 +32,4 @@ A collection of sample codes for diverse software engineering topics.
 
 ## Get In Touch
 
-I'm always open to discussing new ideas, potential collaborations, and interesting projects you might have in mind. Feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com). Let's build something amazing together.
+I'm always open to discussing new ideas, potential collaborations, and interesting projects you might have in mind. Feel free to reach out via email.
