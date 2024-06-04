@@ -2,6 +2,7 @@
 [![platform](https://img.shields.io/twitter/follow/mscjaviergs?style=flat-square)](https://x.com/intent/follow?screen_name=mscjaviergs)
 
 Welcome to my GitHub profile! I'm passionate about software design, programming languages, and the intersection of intelligent systems and human-centered AI.
+I teach a variety of topics in software design and programming languages and am currently writing a book on the "Fundamentals of Affect-Driven Systems.
 
 <!---
 - 👋 Hi, I’m @javiergs
@@ -15,20 +16,6 @@ Welcome to my GitHub profile! I'm passionate about software design, programming 
 javiergs/javiergs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-## About Me
-
-- 👨🏻‍🏫 **Educator**: I teach a variety of topics in software design and programming languages.
-- 👀 **Collaborator**: I'm looking to collaborate on projects involving Intelligent Systems and Human-Centered AI.
-- 🌱 **Author**: Currently writing a book on the "Fundamentals of Affect-Driven Systems".
-- 📫 **Contact**: You can reach me at mscjaviergs@gmail.com.
-
-## Skills
-
-- **Programming Languages**: Python, JavaScript, Java, C++, and more.
-- **Frameworks & Tools**: TensorFlow, PyTorch, React, Node.js.
-- **Areas of Expertise**: Software Architecture, Machine Learning, Human-Computer Interaction.
 
 ## Projects
 
