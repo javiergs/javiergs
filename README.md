@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
 [![platform](https://img.shields.io/twitter/follow/mscjaviergs?style=flat-square)](https://x.com/intent/follow?screen_name=mscjaviergs)
 
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+![Static Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
 Welcome to my GitHub profile! I'm passionate about software design, programming languages, and the intersection of intelligent systems and human-centered AI.
