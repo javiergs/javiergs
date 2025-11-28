@@ -29,7 +29,3 @@ Collaborative projects focused on creating adaptive and intelligent solutions fo
 
 ### Teaching
 A collection of sample codes for diverse software engineering topics.
-
-## Get In Touch
-
-I'm always open to discussing new ideas, potential collaborations, and interesting projects you might have in mind. Feel free to reach out via email.
