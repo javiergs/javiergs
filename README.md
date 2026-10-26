@@ -16,14 +16,12 @@ I teach software engineering, software design, and cloud computing, emphasizing 
 - [HCI Toolbox](https://github.com/javiergs/hci-toolbox) — Tools and examples for human–computer interaction research.
 - [AR Attention Analysis](https://github.com/javiergs/capstone-ar-attention-analysis) — Capstone work exploring attention analysis in augmented reality.
 - [Virtual Agent Capstone](https://github.com/javiergs/capstone-virtual-agent) — Capstone development of an interactive virtual agent.
-- [Frontera](https://github.com/javiergs/frontera) — Traveling Salesperson Problem implementations and benchmarks using serial, CUDA, and OpenCL approaches.
 
 ## Teaching
 
 I develop practical programming exercises, labs, and software projects to support teaching in software engineering and related areas.
 
 - [CSC 3100](https://github.com/csc-3100) — Software design and development resources.
-- [Educational TDD example](https://github.com/csc-3100/edu-tdd) — Test-driven development practice with Java and JUnit.
 
 ## Writing
 
