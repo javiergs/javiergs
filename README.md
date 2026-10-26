@@ -1,7 +1,7 @@
 
 Welcome to my GitHub profile! I'm passionate about software design, programming languages, and the intersection of intelligent systems and human-centered AI. My research explores how human signals, such as brain activity, eye movements, and emotional responses, can inform the design of adaptive and interactive systems. I work with technologies including affective computing (EmotionAI), brain–computer interfaces, eye tracking, extended reality, and robotics.
 
-I teach Human–Computer Interaction (HCI), Software Engineering (SE), and Programming Languages (PL). Here, you’ll find research prototypes, educational resources, and open-source projects developed with students and collaborators.
+I teach CS, HCI and PL courses. Here, you’ll find research prototypes, educational resources, and open-source projects developed with students and collaborators.
 
 ## Research interests
 
