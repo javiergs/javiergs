@@ -11,12 +11,6 @@ I teach CS, HCI and PL courses. Here, you’ll find research prototypes, educati
 - **Extended reality and robotics:** XR experiences, human–robot interaction, and interactive prototypes.
 - **Software engineering education:** Project-based learning, collaborative development, and software quality.
 
-## Selected projects
-
-- [HCI Toolbox](https://github.com/javiergs/hci-toolbox) — Tools and examples for human–computer interaction research.
-- [AR Attention Analysis](https://github.com/javiergs/capstone-ar-attention-analysis) — Capstone work exploring attention analysis in augmented reality.
-- [Virtual Agent Capstone](https://github.com/javiergs/capstone-virtual-agent) — Capstone development of an interactive virtual agent.
-
 ## Teaching
 
 I develop practical programming exercises, labs, and software projects to support teaching in software engineering and related areas.
