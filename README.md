@@ -1,4 +1,3 @@
-**Software Engineer | Human-Centered AI Researcher | Computer Science Educator**
 
 Software engineering and research at the intersection of human sensing, intelligent systems, and interactive technologies. Projects include Java libraries, educational resources, and research prototypes developed through collaboration.
 
