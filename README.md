@@ -1,6 +1,13 @@
 
 Software engineering and research at the intersection of human sensing, intelligent systems, and interactive technologies. Projects include Java libraries, educational resources, and research prototypes developed through collaboration.
 
+## Research interests
+
+- **Human-centered intelligent systems:** Interactive software that responds to human behavior and context.
+- **Affective computing (EmotionAI):** Emotion-aware interaction and adaptive systems.
+- **Human sensing:** EEG/BCI, eye tracking, and multimodal signals.
+- **Extended reality and robotics:** XR, human–robot interaction, and interactive prototypes.
+
 ## Software
 
 Java libraries and developer tools for sensing, robotics, graphics, and software engineering education. Links lead to public examples and documentation.
@@ -18,13 +25,6 @@ Practical exercises, labs, and collaborative projects in software engineering, h
 
 - [LLM from Scratch in Java](https://github.com/javiergs/llm-from-scratch-java) — Educational implementations for understanding language models.
 - [MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) — Publish–subscribe communication using Java and MQTT.
-
-## Research interests
-
-- **Human-centered intelligent systems:** Interactive software that responds to human behavior and context.
-- **Affective computing (EmotionAI):** Emotion-aware interaction and adaptive systems.
-- **Human sensing:** EEG/BCI, eye tracking, and multimodal signals.
-- **Extended reality and robotics:** XR, human–robot interaction, and interactive prototypes.
 
 ## Writing
 
