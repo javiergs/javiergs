@@ -29,6 +29,7 @@ Java libraries and developer tools for sensing, robotics, graphics, and software
 Undergraduate and graduate courses in software engineering, including software design, testing, distributed systems, and collaborative development.
 
 - **CSC 3100 — Fundamentals of Software Engineering:** Software design, architecture, testing, and collaborative development.
+- **CSC 364 — Fundamentals of Distributed and Parallel Systems:** Concurrency, parallel computing, and distributed systems fundamentals.
 - **CSC 5100 — Software Engineering:** Distributed systems, cloud services, APIs, and software integration.
 
 ## Writing
