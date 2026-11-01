@@ -21,10 +21,15 @@ Java libraries and developer tools for sensing, robotics, graphics, and software
 
 ## Learning resources
 
-Practical exercises, labs, and collaborative projects in software engineering, human–computer interaction, and programming languages.
-
 - [LLM from Scratch in Java](https://github.com/javiergs/llm-from-scratch-java) — Educational implementations for understanding language models.
 - [MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) — Publish–subscribe communication using Java and MQTT.
+
+## Teaching
+
+Undergraduate and graduate courses in software engineering, including software design, testing, distributed systems, and collaborative development.
+
+- **CSC 3100 — Fundamentals of Software Engineering:** Software design, architecture, testing, and collaborative development.
+- **CSC 5100 — Software Engineering:** Distributed systems, cloud services, APIs, and software integration.
 
 ## Writing
 
