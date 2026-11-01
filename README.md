@@ -24,8 +24,6 @@ I develop Java libraries and tools for sensing, robotics, graphics, and software
 - **Human sensing:** EEG/BCI, eye tracking, and multimodal signals.
 - **Extended reality and robotics:** XR, human–robot interaction, and interactive prototypes.
 
-Explore collaborative research projects at [CALHCI](https://github.com/calhci).
-
 ## Teaching
 
 I develop practical exercises, labs, and collaborative projects in software engineering, human–computer interaction, and programming languages.
