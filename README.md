@@ -19,10 +19,6 @@ Java libraries and developer tools for sensing, robotics, graphics, and software
 - [TULIP](https://github.com/javiergs/tulip-getting-started) — Tools for programming and software engineering education.
 - [P-code](https://github.com/javiergs/plugin-intellij-pcode) — IntelliJ IDEA plugin for programming education.
 
-## Learning resources
-
-- [LLM from Scratch in Java](https://github.com/javiergs/llm-from-scratch-java) — Educational implementations for understanding language models.
-- [MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) — Publish–subscribe communication using Java and MQTT.
 
 ## Teaching
 
@@ -31,6 +27,11 @@ Undergraduate and graduate courses in software engineering, including software d
 - **CSC 3100 — Fundamentals of Software Engineering:** Software design, architecture, testing, and collaborative development.
 - **CSC 364 — Fundamentals of Distributed and Parallel Systems:** Concurrency, parallel computing, and distributed systems fundamentals.
 - **CSC 5100 — Software Engineering:** Distributed systems, cloud services, APIs, and software integration.
+
+## Learning resources
+
+- [LLM from Scratch in Java](https://github.com/javiergs/llm-from-scratch-java) — Educational implementations for understanding language models.
+- [MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) — Publish–subscribe communication using Java and MQTT.
 
 ## Writing
 
