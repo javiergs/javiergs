@@ -26,6 +26,7 @@ Undergraduate and graduate courses in software engineering, including software d
 
 - **CSC 3100 — Fundamentals of Software Engineering:** Software design, architecture, testing, and collaborative development.
 - **CSC 364 — Fundamentals of Distributed and Parallel Systems:** Concurrency, parallel computing, and distributed systems fundamentals.
+- **CSC 486 — Human-Computer Interaction:** User-centered design, interaction design, and usability evaluation.
 - **CSC 5100 — Software Engineering:** Distributed systems, cloud services, APIs, and software integration.
 
 ## Learning resources
