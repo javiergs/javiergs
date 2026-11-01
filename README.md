@@ -14,7 +14,10 @@ Java libraries and developer tools for sensing, robotics, graphics, and software
 
 ## Learning resources
 
+Practical exercises, labs, and collaborative projects in software engineering, human–computer interaction, and programming languages.
+
 - [LLM from Scratch in Java](https://github.com/javiergs/llm-from-scratch-java) — Educational implementations for understanding language models.
+- [MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) — Publish–subscribe communication using Java and MQTT.
 
 ## Research interests
 
@@ -22,12 +25,6 @@ Java libraries and developer tools for sensing, robotics, graphics, and software
 - **Affective computing (EmotionAI):** Emotion-aware interaction and adaptive systems.
 - **Human sensing:** EEG/BCI, eye tracking, and multimodal signals.
 - **Extended reality and robotics:** XR, human–robot interaction, and interactive prototypes.
-
-## Teaching
-
-Practical exercises, labs, and collaborative projects in software engineering, human–computer interaction, and programming languages.
-
-- [CSC 3100](https://github.com/csc-3100) — Software engineering teaching resources.
 
 ## Writing
 
