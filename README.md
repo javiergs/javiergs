@@ -15,7 +15,7 @@ Java libraries and developer tools for sensing, robotics, graphics, and software
 - [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) — Working with Emotiv Cortex and EEG data in Java.
 - [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Communicating with Universal Robots through RTDE and URScript.
 - [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connecting Java applications to ROS 2 robotics.
-- [Simple3D4J](https://github.com/javiergs/simple3d4j-getting-started) — Exploring 3D graphics with Java.
+- [Simple3D4J](https://github.com/javiergs/simple3d4j-getting-started) — 3D wireframe rendering in Java
 - [TULIP](https://github.com/javiergs/tulip-getting-started) — Tools for programming and software engineering education.
 - [P-code](https://github.com/javiergs/plugin-intellij-pcode) — IntelliJ IDEA plugin for programming education.
 
