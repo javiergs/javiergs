@@ -6,19 +6,16 @@ My work explores how brain activity, eye movements, and emotional responses can 
 
 I develop Java libraries and tools for sensing, robotics, graphics, and software engineering education. The public getting-started repositories provide examples and documentation.
 
-| Project | Focus |
-| --- | --- |
-| [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) | Working with Emotiv Cortex and EEG data in Java |
-| [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) | Communicating with Universal Robots through RTDE and URScript |
-| [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) | Connecting Java applications to ROS 2 robotics |
-| [Simple3D4J](https://github.com/javiergs/simple3d4j-getting-started) | Exploring 3D graphics with Java |
-| [TULIP](https://github.com/javiergs/tulip-getting-started) | Tools for programming and software engineering education |
-| [P-code](https://github.com/javiergs/plugin-intellij-pcode) | IntelliJ IDEA plugin for programming education |
+- [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) — Working with Emotiv Cortex and EEG data in Java.
+- [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Communicating with Universal Robots through RTDE and URScript.
+- [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connecting Java applications to ROS 2 robotics.
+- [Simple3D4J](https://github.com/javiergs/simple3d4j-getting-started) — Exploring 3D graphics with Java.
+- [TULIP](https://github.com/javiergs/tulip-getting-started) — Tools for programming and software engineering education.
+- [P-code](https://github.com/javiergs/plugin-intellij-pcode) — IntelliJ IDEA plugin for programming education.
 
 ## Learning resources
 
 - [LLM from Scratch in Java](https://github.com/javiergs/llm-from-scratch-java) — Educational implementations for understanding language models.
-- [Getting-started repositories](https://github.com/javiergs?tab=repositories&q=getting-started) — Practical Java examples for the libraries above.
 
 ## Research interests
 
