@@ -1,10 +1,10 @@
-I'm a **software engineer, human-centered AI researcher, and computer science educator**. I build software tools and interactive systems at the intersection of software engineering, human sensing, and intelligent technologies.
+**Software Engineer | Human-Centered AI Researcher | Computer Science Educator**
 
-My work explores how brain activity, eye movements, and emotional responses can inform adaptive experiences. Here you'll find Java libraries, hands-on learning resources, and research prototypes developed with students and collaborators.
+Software engineering and research at the intersection of human sensing, intelligent systems, and interactive technologies. Projects include Java libraries, educational resources, and research prototypes developed through collaboration.
 
 ## Software
 
-I develop Java libraries and tools for sensing, robotics, graphics, and software engineering education. The public getting-started repositories provide examples and documentation.
+Java libraries and developer tools for sensing, robotics, graphics, and software engineering education. Links lead to public examples and documentation.
 
 - [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) — Working with Emotiv Cortex and EEG data in Java.
 - [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Communicating with Universal Robots through RTDE and URScript.
@@ -26,7 +26,7 @@ I develop Java libraries and tools for sensing, robotics, graphics, and software
 
 ## Teaching
 
-I develop practical exercises, labs, and collaborative projects in software engineering, human–computer interaction, and programming languages.
+Practical exercises, labs, and collaborative projects in software engineering, human–computer interaction, and programming languages.
 
 - [CSC 3100](https://github.com/csc-3100) — Software engineering teaching resources.
 
