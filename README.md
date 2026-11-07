@@ -2,42 +2,45 @@ I am a software engineer and computer science educator. I build interactive syst
 
 ## Selected projects
 
-Java libraries and developer tools for sensing, robotics, graphics, and software engineering education. Links lead to public examples and documentation.
-
-### ROVER (Remote Operation and Visualization of Embodied Robots)
+### ROVER — Remote Operation and Visualization of Embodied Robots
 
 ROVER brings together our work on how people operate and visualize robots through desktop and web interfaces.
 
-- [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Communicating with Universal Robots through RTDE and URScript.
-- [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connecting Java applications to ROS 2 robotics.
-- ROVER Desktop provides 3D visualization and joint controls.
-- ROVER Web provides a browser-based UR3e simulator with an MQTT playground
+- [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Communicate with Universal Robots e-Series arms from Java using RTDE and URScript.
+- [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connect Java applications to TurtleBot4 through ROS 2.
+- [ROVER Desktop](https://github.com/javiergs/universal-robots-desktop) — Visualize and adjust joint poses for Universal Robots e-Series arms.
+- [ROVER Web](https://javiergs.github.io/rover-web/) — Explore a simulated UR3e and exchange joint poses through MQTT.
 
 ### ADAS — Affect-Driven Adaptive Systems
 
 ADAS use cues about how people feel to adapt how they interact with them.
 
-- [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) — Working with Emotiv Cortex and EEG data in Java.
-- [Simple3D4J](https://github.com/javiergs/simple3d4j-getting-started) — 3D wireframe rendering in Java
+- [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) — Access EEG data from EMOTIV Cortex in Java.
+
+### VERO — Virtual Environments and Rendering of Objects
+
+VERO brings together our work in computer graphics, from rendering 3D data to building interactive virtual reality experiences.
+
+- [Simple3D4J](https://github.com/javiergs/simple3d4j-getting-started) — A lightweight Java library for displaying 3D wireframes and point clouds.
 
 ## Teaching
 
-Undergraduate and graduate courses in software engineering, including software design, testing, distributed systems, and collaborative development.
+I teach undergraduate and graduate courses in software engineering and computer science. Course materials include assignments, labs, and team projects.
 
-- [TULIP](https://github.com/javiergs/tulip-getting-started) — Tools for programming and software engineering education.
-- [P-code](https://github.com/javiergs/plugin-intellij-pcode) — IntelliJ IDEA plugin for a P-code VM emulation.
+- **CSC 3100 — Fundamentals of Software Engineering.** Software design, architecture, testing, and collaborative development.
+- **CSC 0364 — Fundamentals of Distributed and Parallel Systems.** Concurrency, parallel computing, and distributed systems.
+- **CSC 0486 — Human–Computer Interaction.** User-centered design, interaction design, and usability evaluation.
+- **CSC 5100 — Modern Software Engineering.** Distributed systems, cloud services, APIs, and software integration.
 
-Assignments, laboratories and projects from my sections diverse courses has their own organization
+### Teaching tools
 
-- **CSC 3100 — Fundamentals of Software Engineering:** Software design, architecture, testing, and collaborative development.
-- **CSC 0364 — Fundamentals of Distributed and Parallel Systems:** Concurrency, parallel computing, and distributed systems fundamentals.
-- **CSC 0486 — Human-Computer Interaction:** User-centered design, interaction design, and usability evaluation.
-- **CSC 5100 — Modern Software Engineering:** Distributed systems, cloud services, APIs, and software integration.
+- [TULIP](https://github.com/javiergs/tulip-getting-started) — Tools for teaching programming and software engineering.
+- [P-Code debugger](https://github.com/javiergs/plugin-intellij-pcode) — Step through programs and inspect how they execute on a P-Code virtual machine in IntelliJ IDEA.
 
 ## Learning resources
 
-- [LLM from Scratch in Java](https://github.com/javiergs/llm-from-scratch-java) — Educational implementations for understanding language models.
-- [MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) — Publish–subscribe communication using Java and MQTT.
+- [LLM from Scratch in Java](https://github.com/javiergs/llm-from-scratch-java) — Build a GPT-style language model in Java to understand how it works.
+- [MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) — Practice publish–subscribe communication with Java and MQTT.
 
 ## Writing
 
