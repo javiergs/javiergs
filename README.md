@@ -28,8 +28,8 @@ VERO brings together our work in computer graphics, from rendering 3D data to bu
 I teach undergraduate and graduate courses in software engineering and computer science. Course materials include assignments, labs, and team projects.
 
 - **[CSC 3100 — Fundamentals of Software Engineering](https://github.com/csc-3100).** Software design, architecture, testing, and collaborative development.
-- **CSC 0364 — Fundamentals of Distributed and Parallel Systems.** Concurrency, parallel computing, and distributed systems.
-- **CSC 0486 — Human–Computer Interaction.** User-centered design, interaction design, and usability evaluation.
+- **[CSC 0364 — Fundamentals of Distributed and Parallel Systems](https://github.com/csu-csc364).** Concurrency, parallel computing, and distributed systems.
+- **[CSC 0486 — Human–Computer Interaction](https://github.com/csc-0486).** User-centered design, interaction design, and usability evaluation.
 - **[CSC 5100 — Modern Software Engineering](https://github.com/csc-5100).** Distributed systems, cloud services, APIs, and software integration.
 
 ### Teaching tools
