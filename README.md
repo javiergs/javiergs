@@ -35,7 +35,7 @@ I teach undergraduate and graduate courses in software engineering and computer 
 ### Teaching tools
 
 - [TULIP](https://github.com/javiergs/tulip-getting-started) — Tools for teaching programming and software engineering.
-- [P-Code debugger](https://github.com/javiergs/plugin-intellij-pcode) — Step through programs and inspect how they execute on a P-Code virtual machine in IntelliJ IDEA.
+- [P-Code VM](https://github.com/javiergs/plugin-intellij-pcode) — Step through programs and inspect how they execute on a P-Code virtual machine in IntelliJ IDEA.
 
 ## Learning resources
 
