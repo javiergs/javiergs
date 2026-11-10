@@ -9,7 +9,7 @@ ROVER brings together our work on how people operate and visualize robots throug
 - [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Communicate with Universal Robots e-Series arms from Java using RTDE and URScript.
 - [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connect Java applications to TurtleBot4 through ROS 2.
 - [ROVER Desktop](https://github.com/javiergs/universal-robots-desktop) — Visualize and adjust joint poses for Universal Robots e-Series arms.
-- [ROVER Web](https://javiergs.github.io/rover-web/) — Explore a simulated UR3e and exchange joint poses through MQTT.
+- [ROVER Web]([https://javiergs.github.io/rover-web/](https://github.com/javiergs/rover-web)) — Explore a simulated UR3e and exchange joint poses through MQTT.
 
 ### ADAS — Affect-Driven Adaptive Systems
 
