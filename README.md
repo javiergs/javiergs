@@ -13,7 +13,7 @@ ROVER explores how people monitor, visualize, and operate robots through desktop
 
 ### ADAS — Affect-Driven Adaptive Systems
 
-ADAS investigates how interactive systems can use signals about a person’s affective state to adapt their behavior.
+ADAS investigates how interactive systems can use signals of human affect and cognition to adapt their behavior.
 
 - [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) — Access EEG, band power, and other EMOTIV Cortex data streams from Java.
 
