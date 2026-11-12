@@ -1,41 +1,42 @@
-I am a software engineer and computer science educator. I build interactive systems for human-centered AI, human sensing, and human–robot interaction, along with tools for visualization. I teach a range of computer science courses, including human–computer interaction and programming languages.
+Software engineering research and computer science education, with a focus on human-centered AI, human sensing, human–robot interaction, and interactive visualization.
 
 ## Selected projects
 
 ### ROVER — Remote Operation and Visualization of Embodied Robots
 
-ROVER brings together our work on how people operate and visualize robots through desktop and web interfaces.
+ROVER explores how people monitor, visualize, and operate robots through desktop and web interfaces.
 
-- [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Communicate with Universal Robots e-Series arms from Java using RTDE and URScript.
-- [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connect Java applications to TurtleBot4 through ROS 2.
-- [ROVER Desktop](https://github.com/javiergs/universal-robots-desktop) — Visualize and adjust joint poses for Universal Robots e-Series arms.
-- [ROVER Web](https://github.com/javiergs/rover-web) — Explore a simulated UR3e and exchange joint poses through MQTT.
+- [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Get started with RTDE in Java by querying the controller software version. ROVER Desktop uses a more advanced implementation for continuous feedback.
+- [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connect Java applications to ROS 2 through rosbridge or an MQTT bridge. The examples use Turtlesim, and validation on a physical TurtleBot 4 is pending.
+- [ROVER Desktop](https://github.com/javiergs/rover-desktop) — [Stable v1.0.0 downloads](https://github.com/javiergs/rover-desktop/releases/tag/v1.0.0) provide a real-time digital twin for Universal Robots e-Series arms, with live RTDE feedback from a physical controller or URSim. The [v2.0.0 prerelease](https://github.com/javiergs/rover-desktop/releases/tag/v2.0.0) adds offline UR3e simulation with optional Claude Desktop integration via MCP for the simulator.
+- [ROVER Web](https://github.com/javiergs/rover-web) — Explore a simulated UR3e and exchange joint poses through MQTT. [Live demo](https://javiergs.github.io/rover-web/)
 
 ### ADAS — Affect-Driven Adaptive Systems
 
-ADAS use cues about how people feel to adapt how they interact with them.
+ADAS investigates how interactive systems can use signals about a person’s affective state to adapt their behavior.
 
-- [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) — Access EEG data from EMOTIV Cortex in Java.
+- [Cortex4J](https://github.com/javiergs/cortex4j-getting-started) — Access EEG, band power, and other EMOTIV Cortex data streams from Java.
 
 ### VERO — Virtual Environments and Rendering of Objects
 
-VERO brings together our work in computer graphics, from rendering 3D data to building interactive virtual reality experiences.
+VERO explores 3D rendering, spatial tracking, and interactive virtual environments.
 
 - [Simple3D4J](https://github.com/javiergs/simple3d4j-getting-started) — A lightweight Java library for displaying 3D wireframes and point clouds.
+- [Meta Pose Tracking](https://github.com/javiergs/meta-pose-tracking) — Stream Meta Quest tracking data over MQTT and visualize body poses in real time on a Java desktop app.
 
 ## Teaching
 
-I teach undergraduate and graduate courses in software engineering and computer science. Course materials include assignments, labs, and team projects.
+Undergraduate and graduate course materials include assignments, labs, and team projects.
 
 - **[CSC 3100 — Fundamentals of Software Engineering](https://github.com/csc-3100).** Software design, architecture, testing, and collaborative development.
-- **[CSC 0364 — Fundamentals of Distributed and Parallel Systems](https://github.com/csu-csc364).** Concurrency, parallel computing, and distributed systems.
-- **[CSC 0486 — Human–Computer Interaction](https://github.com/csc-0486).** User-centered design, interaction design, and usability evaluation.
+- **[CSC 364 — Fundamentals of Distributed and Parallel Systems](https://github.com/csu-csc364).** Concurrency, parallel computing, and distributed systems.
+- **[CSC 486 — Human–Computer Interaction](https://github.com/csc-0486).** User-centered design, interaction design, and usability evaluation.
 - **[CSC 5100 — Modern Software Engineering](https://github.com/csc-5100).** Distributed systems, cloud services, APIs, and software integration.
 
 ### Teaching tools
 
-- [TULIP](https://github.com/javiergs/tulip-getting-started) — Tools for teaching programming and software engineering.
-- [P-Code VM](https://github.com/javiergs/plugin-intellij-pcode) — Step through programs and inspect how they execute on a P-Code virtual machine in IntelliJ IDEA.
+- [TULIP](https://github.com/javiergs/tulip-getting-started) — Java library for reading GitHub repositories and working with Taiga projects, sprints, user stories, and tasks.
+- [P-Code VM](https://github.com/javiergs/plugin-intellij-pcode) — Step through P-Code programs and inspect runtime state in IntelliJ IDEA. [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/31858)
 
 ## Learning resources
 
