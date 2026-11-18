@@ -6,10 +6,10 @@ Software engineering research and computer science education, with a focus on hu
 
 ROVER explores how people monitor, visualize, and operate robots through desktop and web interfaces.
 
-- [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Get started with RTDE in Java by querying the controller software version. ROVER Desktop uses a more advanced implementation for continuous feedback.
-- [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connect Java applications to ROS 2 through rosbridge or an MQTT bridge. The examples use Turtlesim, and validation on a physical TurtleBot 4 is pending.
-- [ROVER Desktop](https://github.com/javiergs/rover-desktop) — [Stable v1.0.0 downloads](https://github.com/javiergs/rover-desktop/releases/tag/v1.0.0) provide a real-time digital twin for Universal Robots e-Series arms, with live RTDE feedback from a physical controller or URSim. The [v2.0.0 prerelease](https://github.com/javiergs/rover-desktop/releases/tag/v2.0.0) adds offline UR3e simulation with optional Claude Desktop integration via MCP for the simulator.
+- [ROVER Desktop](https://github.com/javiergs/rover-desktop) — An offline simulator and RTDE-connected digital twin for Universal Robots e-Series arms. Supports drawing workflows, gripper controls, wrist-camera integration, experimental 3D scanning, and MCP interaction with AI assistants. [Stable v2.1.0 downloads](https://github.com/javiergs/rover-desktop/releases/tag/v2.1.0).
 - [ROVER Web](https://github.com/javiergs/rover-web) — Explore a simulated UR3e and exchange joint poses through MQTT. [Live demo](https://javiergs.github.io/rover-web/)
+- [RTDE4J](https://github.com/javiergs/rtde4j-getting-started) — Learn Java connectivity and real-time RTDE communication with Universal Robots controllers and URSim.
+- [Turtle4J](https://github.com/javiergs/turtle4j-getting-started) — Connect Java applications to ROS 2 through rosbridge or an MQTT bridge. The examples use Turtlesim, and validation on a physical TurtleBot 4 is pending.
 
 ### ADAS — Affect-Driven Adaptive Systems
 
